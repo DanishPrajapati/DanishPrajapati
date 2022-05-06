@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanishPrajapati.
-- 🌱 I’m currently working core java,Sql,Html,Css>Javascript.
+- 🌱 I’m currently working core java,Sql,Html,Css,Javascript.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me danishprajapati1709@gmail.com
 
